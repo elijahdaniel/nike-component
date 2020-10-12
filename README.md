@@ -1,6 +1,6 @@
 # Nike Component (Concept)
 
-[View Live Demo](nike-component-j7e4audyz.vercel.app)
+[View Live Demo](https://nike-component-j7e4audyz.vercel.app/)
 
 ![nike component demo](./images/demo.gif)
 
