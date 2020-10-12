@@ -7,7 +7,5 @@
 ## Tools
 
 - HTML
-- Scss (CSS pre-processor)
+- Scss (CSS Pre-Processor)
 - Vanilla JavaScript
-
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
